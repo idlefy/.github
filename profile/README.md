@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/idlefy/.github/main/profile/assets/idlefy-logo.png" alt="Idlefy" width="220" />
+  <a href="https://idlefy.com">
+    <img src="https://raw.githubusercontent.com/idlefy/.github/main/profile/assets/og-image.jpg" alt="Idlefy — your dev servers run 24/7, your team uses them 8h a day" />
+  </a>
 </p>
-
-<h1 align="center">Idlefy</h1>
-
-<p align="center"><b>Lease cloud VMs by the hour. Stop paying for idle infrastructure.</b></p>
 
 <p align="center">
   <a href="https://idlefy.com">Website</a> ·
